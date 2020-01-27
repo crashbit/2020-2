@@ -3,4 +3,5 @@
 
 ### Materiales
 
-1. Temario de la materia [link] (http://github.com/crashbit/2020-2/MPOO/MPOO-IEE.pdf)
+1. Temario de la materia 
+[link] (https://github.com/crashbit/2020-2/blob/master/MPOO/MPOO-IEE.pdf)

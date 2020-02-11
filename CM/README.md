@@ -33,3 +33,8 @@
    1. [Guía Swift](resources/swiftessentials.pdf)
    2. [Swift Book](https://books.goalkicker.com/SwiftBook/)
    3. [iOS Book](https://books.goalkicker.com/iOSBook/)
+   
+
+### References
+1.- Model View Controller Pattern
+![MVC Image](resources/images/mvc.png)

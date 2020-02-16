@@ -26,6 +26,11 @@
   - Ligar componentes de la vista al código
   - Despliegue de aplicaciones en el simulador de dispositivo
 
+- Session 5 (12/02/2020)
+  - Manejo de clases y estructuras
+  - Inicializadores básicos
+  - [Código en clase]()
+
 ### Resources
 
 1. [ Temario de la materia ](https://github.com/crashbit/2020-2/blob/master/CM/computo-movil.pdf)

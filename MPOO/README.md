@@ -29,7 +29,14 @@
   - Patrón de diseño modelo-vista-controlador
   - Uso del componente **Button**
   - Ligar componentes de la vista al código
-  - Despliegue de aplicaciones en el simulador de dispositivo
+  - Despliegue de aplicaciones en el simulador de dispositivos
+  
+- Session 5 (12/02/2020)
+  - Uso de botones
+  - Conexión de Interface Builder con código 
+  - Manejo de funciones en xcode y ligarlos a Interface builder
+  - Uso de UILabel
+  - [Código realizado en clase](sessiones/README.md)
 
 
 

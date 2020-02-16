@@ -29,7 +29,7 @@
 - Session 5 (12/02/2020)
   - Manejo de clases y estructuras
   - Inicializadores básicos
-  - [Código en clase](sessions/../README.md)
+  - [Código en clase](sessions/README.md)
 
 ### Resources
 

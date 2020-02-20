@@ -31,6 +31,14 @@
   - Inicializadores básicos
   - [Código en clase](sessions/README.md)
 
+- Session 6 (17/02/2020)
+  - Manejo de funciones
+  - [Codigo de clase](sessions/code/session_6/README.md)
+
+- Session 7 (19/02/2020)
+  - Manejo de optionals
+  - [Codigo de clase](sessions/code/session_7/README.md)
+
 ### Resources
 
 1. [ Temario de la materia ](https://github.com/crashbit/2020-2/blob/master/CM/computo-movil.pdf)

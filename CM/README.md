@@ -38,6 +38,14 @@
 - Session 7 (19/02/2020)
   - Manejo de optionals
   - [Codigo de clase](sessions/code/session_7/README.md)
+  
+- Session 8 (24/02/2020)
+- Session 9 (26/02/2020)
+- Session 10 (02/03/2020)
+- Session 11 (04/03/2020)
+- Session 12 (09/03/2020)
+- Session 13 (11/03/2020)
+- Session 14 (18/03/2020)
 
 ### Resources
 

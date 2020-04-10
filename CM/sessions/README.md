@@ -2,4 +2,4 @@
 
 - Sessions
   - [Session 5]()
-  - > ##TODO:## Subir código bisto en clase
+  - > ##TODO:## Subir código visto en clase
